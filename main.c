@@ -1,4 +1,6 @@
+#include <stdlib.h>
 #include "monty.h"
+
 /**
  * main - Entry point
  * @argc: The number of command-line arguments.
